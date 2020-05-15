@@ -1,4 +1,4 @@
-# corona
+# coronavirus App UI
 
 A new Flutter application.
 
